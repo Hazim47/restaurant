@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781924462951",
+    "project_id": "shawarma4you-49d1f",
+    "storage_bucket": "shawarma4you-49d1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781924462951:android:a0025ce0d59dd046897fc2",
+        "android_client_info": {
+          "package_name": "com.example.shawarma_4you"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLntkZt0Epw6mQUDWsAKQ7EldZ6k6uFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
