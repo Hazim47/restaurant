@@ -21,7 +21,7 @@ The system is built to be flexible and can be customized for any type of restaur
   
 🛠️ Tech Stack
   Flutter (Mobile App Development)
-  Backend (Firebase / API / Node.js – حسب مشروعك)
+  Backend (Firebase / API / Node.js)
   Real-time database support (if applicable)
   
 🎯 Purpose
