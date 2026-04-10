@@ -1,20 +1,35 @@
-<<<<<<< HEAD
-# shawarma_4you
+🍔 Shawarma 4 You – Restaurant Ordering System
+📱 Overview
 
-A new Flutter project.
+Shawarma 4 You is a complete restaurant ordering system designed to streamline the process of ordering food, managing orders, and improving communication between customers and restaurant staff.
 
-## Getting Started
+The system is built to be flexible and can be customized for any type of restaurant or fast food business.
 
-This project is a starting point for a Flutter application.
+🚀 Features
+   Customer App
+   Browse a clean and organized menu
+   Add items to cart and place orders بسهولة
+   Real-time order status updates
+   Simple and fast user experience
+   Supports multiple order types (delivery / pickup)
+   Admin Panel
+  Manage incoming orders in real-time
+  Update order status (preparing / ready / delivered)
+  Control menu items (add / edit / remove)
+  View order history and details
+  Simple dashboard for restaurant management
+  
+🛠️ Tech Stack
+  Flutter (Mobile App Development)
+  Backend (Firebase / API / Node.js – حسب مشروعك)
+  Real-time database support (if applicable)
+  
+🎯 Purpose
+  This project is designed to help small and medium restaurants:
+  Reduce dependency on third-party delivery apps
+  Manage orders efficiently
+  Improve customer experience
+  Have a fully controlled ordering system
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# restaurant
->>>>>>> ae77c1d43f3573514e821f74029a2ca0603d94d5
+💼 Portfolio Use
+This project is part of my portfolio showcasing mobile app development skills using Flutter, including UI design, state management, and backend integration.
